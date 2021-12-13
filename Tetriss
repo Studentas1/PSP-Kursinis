@@ -49,7 +49,7 @@ int main()
 
 	//Tetrio figuros tekstura
 	Texture tetrisTexture;
-	tetrisTexture.loadFromFile("C:/Users/Slimas/Desktop/tetris.png");
+	tetrisTexture.loadFromFile("C:.png");
 
 	//Tetrio figuros spalvos fragmentas
 	Sprite colorFragment(tetrisTexture);
